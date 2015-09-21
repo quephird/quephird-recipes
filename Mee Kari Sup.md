@@ -58,3 +58,5 @@ fresh bean sprouts
 scallions  
 
 Chop the tips of one or two scallions. Get a bowl and fill it about half way with the vermicelli noodles. Then fill the next third of the bowl with fresh bean sprouts. Add the soup until the bowl is about 3/4 full.  Garnish the bowl with the chopped scallions. Mangia!!!
+
+![](images/Mee kari sup.jpg)
