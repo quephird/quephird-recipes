@@ -1,6 +1,6 @@
 This is a modifed version of thie recipe found [here](http://www.daringgourmet.com/2013/08/27/doro-wat-spicy-ethiopian-chicken-stew/).
 
-### Part 1 - Sauté onions
+### Part 1 - Sautée onions
 
 #### Ingredients
 
@@ -43,3 +43,5 @@ Make rice; I like to throw in a tablespoon of two into the rice to insure that i
 ### Part 5 - Serve and enjoy!
 
 Put rice on dish and ladle as much of the sauce and chicken as desired.
+
+![](./images/Doro wat.jpg)
