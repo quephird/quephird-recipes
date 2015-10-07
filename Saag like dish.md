@@ -47,3 +47,5 @@ Dice chicken and throw into pan. Cook until chicken whitens throughly.
 Cook rice and add two optionally two tablespoons of butter to make it more moist and sticky.
 
 Serve saag-like stew over rice.
+
+![](./images/Saag.jpg)
