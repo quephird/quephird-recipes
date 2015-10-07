@@ -36,3 +36,5 @@ They should be whitened on the side that was face down before.
 Lather sautée onto them so they are submerged and cook for another five minutes.
 
 Once the rice is done, serve with scallops and sautée.
+
+![](./images/Sautéed scallops.jpg)
