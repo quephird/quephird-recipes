@@ -16,17 +16,16 @@ Add oil to pan first. Add onion and garlic and heat on medium to high until tran
 1 14 ounce can stewed tomatoes  
 1/2 bag of baby carrots (or 8 ounces)  
 1 tablespoon of berbere spice  
+1 tablespoon of butter
 
+Cut baby carrots lengthwise into halves or quarters depending their thickness.
+Throw them into the pan and mix them up.
+Add enough water for them to boil, and wait until they become soft.
 
-Chop up beans into halves and throw into pan. Let boil until they turn an almost olive color. Then put the tomatoes into the pan, squeezing them in your hand before doing so.
-
-Cut baby carrots lengthwise into halves or quarters depending their thickness. Throw them into the pan and mix them up. Throw in berber spice and stir in.
+Chop up beans into halves and throw into pan. Let boil until they turn an almost olive color. Then put the tomatoes into the pan, squeezing them in your hand before doing so. Throw in berber spice and butter and stir in.
 
 All through this step, keep adding water to insure proper boiling and softening of veggies as well as preventing burning. Also keep throwing in salt and/or garlic to your preference.
 
 **ACHTUNG:** This dish will take a _long while_ to complete... like 1 1/2 to 2 hours; _THE CARROTS TAKE FOREVER TO GET SUFFICIENTLY MUSHY_. Plan accordingly.
 
-### Possible improvements
-
-* Try boiling carrots _before_ beans, and trying harder to cut them more finely
-* Adding more stewed tomatoes
+![](./images/Fosolia.jpg)
