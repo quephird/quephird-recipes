@@ -20,7 +20,7 @@ Heat onions et. al medium for about twenty minutes. Keep putting just a tiny amo
 4 tablespoons berbere spice  
 1/2 cup white wine  
 1 tablespoon salt  
-2 tablespoons lemon juice
+2 tablespoons lemon juice  
 1 tomato  
 
 Dice the tomato and throw it and the rest of the ingredients into the pan and heat for another ten minutes or so.
