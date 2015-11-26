@@ -9,8 +9,8 @@ This is adapted from this [recipe](http://www.thaikitchen.com/Recipes/Soups/Tom-
 4 tablespoons lime juice  
 5 tablespoons fish sauce  
 2 tablespoons sugar  
-2 lemongrass stalks
-1 inch of ginger, minced  
+2 lemongrass stalks  
+1 tablespoon of ginger, minced  
 1 tablespoon salt  
 
 Cut the lemongrass stalks in half.
