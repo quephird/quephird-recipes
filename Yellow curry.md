@@ -16,8 +16,8 @@ Heat on medium for at least 15 minutes.
 
 #### Ingredients
 
-1/2 of 4 ounce can yellow curry paste
-1 can (14 ounces) of coconut milk
+1/2 of 4 ounce can yellow curry paste  
+1 can (14 ounces) of coconut milk  
 
 Open can, and mix in the curry paste.
 Then throw in coconut milk.
@@ -28,7 +28,7 @@ Heat for another ten minutes or so.
 
 #### Ingredients
 
-1/2 pound of chicken breast
+1/2 pound of chicken breast  
 
 Dice chicken and throw into pan.
 Heat dish for another 15 minutes or so or until chicken has sufficiently whitened.
@@ -37,7 +37,7 @@ Heat dish for another 15 minutes or so or until chicken has sufficiently whitene
 
 #### Ingredients
 
-1 1/2 cup of rice
+1 1/2 cup of rice  
 
 Cook rice in parallel.
 
