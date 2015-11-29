@@ -17,15 +17,17 @@ Heat onions et. al medium for about twenty minutes. Keep putting just a tiny amo
 #### Ingredients
 
 1 cup of chicken broth  
-4 tablespoons berbere spice  
+5 tablespoons berbere spice  
 1/2 cup white wine  
 1 tablespoon salt  
-2 tablespoons lemon juice  
-1 tomato  
+3 tablespoons lemon juice  
+2 plum tomatoes  
 
-Dice the tomato and throw it and the rest of the ingredients into the pan and heat for another ten minutes or so.
+Dice the tomatoes and throw them and the rest of the ingredients into the pan.
+(You may or may not want to "mush" or otherwise puree the tomatoes such that the resultant sauce is less chunky.)
+Heat for another fifteen minutes or so.
 
-### Part 3 - Add chicken
+### Part 3a - Add chicken
 
 #### Ingredients
 
@@ -33,15 +35,15 @@ Dice the tomato and throw it and the rest of the ingredients into the pan and he
 
 Dice into small cubes and throw into sauce and let whiten.
 
-### Part 4 - Prepare rice
+### Part 3b - Prepare rice
 
 #### Ingredients
 
 1 1/2 cups of white rice
 
-Make rice; I like to throw in a tablespoon of two into the rice to insure that it's tasty and doesn't stick to the ricemaker. :S
+Make rice; I like to throw in a tablespoon of butter into the rice to insure that it's tasty and doesn't stick to the ricemaker. :S
 
-### Part 5 - Serve and enjoy!
+### Part 4 - Serve and enjoy!
 
 Put rice on dish and ladle as much of the sauce and chicken as desired.
 
