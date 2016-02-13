@@ -29,6 +29,6 @@ Add the cilantro, ginger, jalapeño, curry, cumin, black pepper, salt, and musta
 
 1 1/2 cups of white rice
 
-Make rice and plate.
+Make rice and when done serve meal over it on plate.
 
 ![](./images/Rasam.jpg)
