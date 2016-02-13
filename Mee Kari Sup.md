@@ -5,7 +5,7 @@
 1/3 chopped red onion  
 3 tablespoons chopped cilantro  
 1 tablespoon minced ginger  
-1 tablespoon garlic salt  
+2 garlic cloves  
 1 finely chopped largeish habanero  
 
 Put enough chicken broth in the pan to prevent browning or burning of the above ingredients. Throw them all in there and heat them on medium for about five or ten minutes.
@@ -22,7 +22,6 @@ Put enough chicken broth in the pan to prevent browning or burning of the above 
 2 tablespoons fish sauce  
 1 tablespoon light brown sugar  
 1 tablespoon lime juice  
-10 drops Melinda's Ghost pepper sauce  
 
 One by one, add the ingredients above, still on medium heat. Periodically stir and keep heating the soup for about 20-30 minutes. The soup should be quite tasty now and somewhat thickened, not brothy at all.
 
