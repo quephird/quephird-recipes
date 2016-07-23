@@ -1,17 +1,17 @@
 #### Ingredients
 
-2 cans (14 oz.) of coconut milk
+2 cans (14 oz.) of coconut milk  
 1 cup chicken broth  
-3 tablespoons chopped cilantro
+3 tablespoons chopped cilantro  
 1 thick slice of large onion, diced  
-1 inch of ginger root, minced
+1 inch of ginger root, minced  
 2 tablespoons lime juice  
 4 tablespoons fish sauce  
 1 lemongrass stalk  
-4 oz. mixed mushrooms
-1/2 tablespoon turmeric
-Melinda's Ghost pepper sauce
-1/2 pound chicken breast
+4 oz. mixed mushrooms  
+1/2 tablespoon turmeric  
+Melinda's Ghost pepper sauce  
+1/2 pound chicken breast  
 
 ### Procedure
 
