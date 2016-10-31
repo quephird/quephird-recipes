@@ -12,7 +12,7 @@ This recipe was adapted from [here](http://www.templeofthai.com/recipes/stir_fry
 1 medium green bell pepper  
 1/3 medium onion  
 3 cloves of garlic  
-1 ounce of basil
+1 ounce of basil  
 1/2 tablespoon fish sauce  
 
 Boil a pan of water and then throw in the noodles.
