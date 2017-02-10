@@ -7,7 +7,7 @@
 6 tablespoons lime juice  
 1 tablespoon sriracha sauce  
 2 tablespoons of fish sauce  
-2 tablespoons of brown sugar
+2 tablespoons of brown sugar  
 1 head of lettuce  
 
 This recipe was adapted from the one [here](http://www.bonappetit.com/recipe/thai-larb).
