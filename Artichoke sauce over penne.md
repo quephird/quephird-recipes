@@ -10,7 +10,7 @@ This is adapted from this [recipe](http://thepioneerwoman.com/cooking/wednesday-
 2 cloves of garlic  
 2 tablespoons of butter  
 
-Put pan on medium and line with olive oil. 
+Put pan on medium and line with olive oil.
 Dice the onion and garlic and throw into pan along with butter.
 Add chicken broth to prevent burning.
 Heat for about 5 to 10 minutes.
@@ -42,4 +42,4 @@ Grated parmesan or pecorino romano cheese
 Cook pasta until just past al dente.
 Serve sauce over pasta, and sprinkle cheese on top.
 
-![](./images/Artichoke sauce over penne.jpg)
+![](./images/Artichoke%20sauce%20over%20penne.jpg)

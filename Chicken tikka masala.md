@@ -30,4 +30,4 @@ Let cook for another 10-15 minutes, then turn heat down to low.
 On the side, cook rice, and when done serve chicken and sauce over it.
 Add a little salt if needed.
 
-![](./images/Chicken tikka masala.jpg)
+![](./images/Chicken%20tikka%20masala.jpg)

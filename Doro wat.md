@@ -47,4 +47,4 @@ Make rice; I like to throw in a tablespoon of butter into the rice to insure tha
 
 Put rice on dish and ladle as much of the sauce and chicken as desired.
 
-![](./images/Doro wat.jpg)
+![](./images/Doro%20wat.jpg)

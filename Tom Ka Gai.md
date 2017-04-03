@@ -27,4 +27,4 @@ Dice chicken into cubes or small pieces otherwise and add to soup.
 Cook soup for another 20 minutes.
 Serve in a bowl.
 
-![](./images/Tom Ka Gai.jpg)
+![](./images/Tom%20Ka%20Gai.jpg)

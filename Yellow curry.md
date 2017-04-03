@@ -44,5 +44,4 @@ Cook rice in parallel.
 When everything is all ready, serve curry dish over rice;
 it should be delish!
 
-![](./images/Yellow curry.jpg)
-
+![](./images/Yellow%20curry.jpg)

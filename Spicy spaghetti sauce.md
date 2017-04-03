@@ -25,4 +25,4 @@ Cook for another thirty minutes or so.
 Depending on the sweetness of the tomatoes and your taste you should stir in around a tablespoon of salt.
 Serve over whatever pasta you desire.
 
-![](./images/Spicy spaghetti sauce.jpg)
+![](./images/Spicy%20spaghetti%20sauce.jpg)

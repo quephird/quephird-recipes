@@ -21,4 +21,4 @@ Turn the heat low and let set for about five minutes.
 Break off leaves from the lettuce and cover a plate with them.
 Serve the larb on top of the lettuce.
 
-![](./images/Beef larb.jpg)
+![](./images/Beef%20larb.jpg)

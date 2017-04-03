@@ -41,4 +41,4 @@ Cook until al dente and drain.
 Place however much pasta you desire in a large bowl and ladle soup accordingly.
 YUM.
 
-![](./images/Spicy sausage and broccoli soup.jpg)
+![](./images/Spicy%20sausage%20and%20broccoli%20soup.jpg)

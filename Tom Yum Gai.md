@@ -36,4 +36,4 @@ Add all ingredients to soup and let heat for an additional 30 minutes.
 Serve in a bowl.
 You may want to even serve over pasta or udon.
 
-![](./images/Tom Yum Gai.jpg)
+![](./images/Tom%20Yum%20Gai.jpg)

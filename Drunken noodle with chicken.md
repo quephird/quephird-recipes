@@ -35,4 +35,4 @@ Throw in EVOO to avoid clumping.
 Add fish sauce and perhaps additional salt depending on your preference for taste.
 Heat for 15 minutes.
 
-![](./images/Drunken noodle with chicken.jpg)
+![](./images/Drunken%20noodle%20with%20chicken.jpg)

@@ -37,4 +37,4 @@ Lather sautée onto them so they are submerged and cook for another five minutes
 
 Once the rice is done, serve with scallops and sautée.
 
-![](./images/Sautéed scallops.jpg)
+![](./images/Sautéed%20scallops.jpg)

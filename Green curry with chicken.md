@@ -28,4 +28,4 @@ Dice mushrooms and chicken and throw into pan.
 Continue heating for another 20-30 minutes or until chicken cubes are whitened and cooked.
 Put on low and serve on top of rice.
 
-![](./images/Green curry with chicken.jpg)
+![](./images/Green%20curry%20with%20chicken.jpg)

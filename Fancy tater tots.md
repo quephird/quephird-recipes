@@ -11,6 +11,4 @@ Throw in tater tots and toss them in the pan so that they are covered in the sau
 Cook for about twenty minutes or until the potatoes are crispy to your liking.
 ENJOY.
 
-![](./images/Fancy tater tots.jpg)
-
-
+![](./images/Fancy%20tater%20tots.jpg)
