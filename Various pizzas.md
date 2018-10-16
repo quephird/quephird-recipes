@@ -11,9 +11,45 @@ I make pizza dough from scratch using a tiny variation of Bobby Flay's recipe, [
 
 I just throw everything into a large salad bowl and stir the mixture, gradually adding the hot water and continuing to stir until the dough turns into a wet ball. Then I let it sit somewhere for about an hour. After that I scoop the dough out of the bowl and I repeatedly add flour and knead the dough until it turns into almost like Play-doh. Then I split the ball into two, where each one should be enough for a 14" pizza. Sometimes I put them both away for a day, since dough seems to work better after "aging" a bit, but using one right away is fine.
 
-#### TODO: Add recipe for homemade pizza sauce.
+#### Homemade pizza sauce
+
+1 22 ounce can of Italian plum tomatoes  
+1/2 large onion, diced
+2-4 cloves garlic, minced  
+4 tablespoons cilantro  
+4 tablespoons oregano  
+4 tablespoons basil, diced  
+2-4 tablespoons red pepper flakes  
+
+##### TODO: Add directions for homemade pizza sauce.
+
 
 #### SHOW ME THE PIZZAS
+
+4 ounces prosciutto  
+5-10 tablespoons of banana peppers  
+1 pound mozzarella, shredded  
+1/2-1 lemon  
+4-6 tablespoons feta cheese  
+red pepper flakes  
+
+Make a bedding of mozzarella on top of the pizza dough. Dice the prosciutto and spread it and the banana peppers evenly on top of the mozzarella. Juice lemon and sprinkle some of it over the pizza evenly. Put in the oven for about ten to fifteen minutes. After baking, sprinkle the rest of the lemon juice and the red pepper flakes over pizza. Do the same with the feta cheese.
+
+![](./images/prosciutto_banana_peppers_pizza.jpg)
+
+<hr />
+
+8 oz. sliced pepperoni
+1 pound spicy Italian sausage  
+4-6 hot cherry peppers  
+1 pound mozzarella, shredded  
+8 oz. homemade pizza sauce  
+
+Dice/mince and then brown the sausage first. Then spread the pizza sauce on the dough. Make a bedding of mozzarella on top of the pizza sauce. Arrange the pepperoni evenly on top of the bedding. Dice the cherry peppers and spread them and the sausage evenly on top of the pepperoni. Put in the oven for about ten to fifteen minutes.
+
+![](./images/pepperoni_sausage_cherry_peppers_pizza.jpg)
+
+<hr />
 
 1 pound bacon, cooked and diced  
 1 nectarine, diced  
@@ -65,7 +101,7 @@ Make a bedding of mozzarella on the pizza dough. Slice the tomatoes thinly and a
 1 nectarine  
 10 diced golden cherry tomatoes  
 1 pound mozzarella, shredded  
-8 oz. pizza sauce  
+8 oz. homemade pizza sauce  
 
 Spread the pizza sauce on the dough first. Then make a bedding of mozzarella on top of the pizza sauce. Arrange the pepperoni evenly on top of the bedding. Dice the nectarine and tomatoes and spread evenly on top of the pepperoni. Put in the oven for about ten to fifteen minutes.
 
