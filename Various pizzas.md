@@ -57,7 +57,9 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 ![](./images/tomato_garlic_basil_pizza.jpg)
 
 <br />
-<div style="text-align: center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
+<div style="text-align: center">
+<div style="display: inline-block">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━</div>
+</div>
 <br />
 
 8 oz. sliced pepperoni  
