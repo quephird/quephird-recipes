@@ -23,7 +23,7 @@ with Balsamic vinegar drizzled all over and of course... red pepper flakes
 ![](./images/bacon_nectarine_jalapeno_pizza.jpg)
 
 <br />
-<div style="text-align = center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
+<div style="text-align: center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
 <br />
 
 1 handful of Fuego Takis flavored with cayenne and lime  
@@ -43,7 +43,7 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 ![](./images/chicken_takis_pizza.jpg)
 
 <br />
-<div style="text-align = center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
+<div style="text-align: center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
 <br />
 
 2 large tomatoes sliced  
@@ -57,7 +57,7 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 ![](./images/tomato_garlic_basil_pizza.jpg)
 
 <br />
-<div style="text-align = center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
+<div style="text-align: center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
 <br />
 
 8 oz. sliced pepperoni  
@@ -69,7 +69,7 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 ![](./images/nectarine_pepperoni_pizza.jpg)
 
 <br />
-<div style="text-align = center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
+<div style="text-align: center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
 <br />
 
 1 pound of bacon, cooked and diced  
