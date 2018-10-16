@@ -39,7 +39,7 @@ Make a bedding of mozzarella on top of the pizza dough. Dice the prosciutto and 
 
 <hr />
 
-8 oz. sliced pepperoni
+8 oz. sliced pepperoni  
 1 pound spicy Italian sausage  
 4-6 hot cherry peppers  
 1 pound mozzarella, shredded  
