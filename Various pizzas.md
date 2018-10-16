@@ -22,10 +22,6 @@ with Balsamic vinegar drizzled all over and of course... red pepper flakes
 
 ![](./images/bacon_nectarine_jalapeno_pizza.jpg)
 
-<br />
-<div style="text-align: center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
-<br />
-
 1 handful of Fuego Takis flavored with cayenne and lime  
 2 jalapeño peppers  
 5 tablespoons cilantro  
@@ -42,10 +38,6 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 
 ![](./images/chicken_takis_pizza.jpg)
 
-<br />
-<div style="text-align: center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
-<br />
-
 2 large tomatoes sliced  
 4 garlic cloves, minced  
 1 pound mozzarella, shredded  
@@ -56,12 +48,6 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 
 ![](./images/tomato_garlic_basil_pizza.jpg)
 
-<br />
-<div style="text-align: center">
-<div style="display: inline-block">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━</div>
-</div>
-<br />
-
 8 oz. sliced pepperoni  
 1 nectarine, diced  
 10 diced golden cherry tomatoes  
@@ -69,10 +55,6 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 8 oz. homemade pizza sauce  
 
 ![](./images/nectarine_pepperoni_pizza.jpg)
-
-<br />
-<div style="text-align: center;">━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </div>
-<br />
 
 1 pound of bacon, cooked and diced  
 2 large onions, caramelized  
