@@ -1,27 +1,3 @@
-<style>
-.decorated{
-     overflow: hidden;
-     text-align: center;
- }
-.decorated > span{
-    position: relative;
-    display: inline-block;
-}
-.decorated > span:before, .decorated > span:after{
-    content: '';
-    position: absolute;
-    top: 50%;
-    border-bottom: 2px solid;
-    width: 591px; /* half of limiter*/
-    margin: 0 20px;
-}
-.decorated > span:before{
-    right: 100%;
-}
-.decorated > span:after{
-    left: 100%;
-}
-</style>
 #### Making pizza dough
 
 I make pizza dough from scratch using a tiny variation of Bobby Flay's recipe, [here](https://www.epicurious.com/recipes/member/views/pizza-dough-bobby-flay-5b711de44e722a4f20884ace)
@@ -46,7 +22,9 @@ with Balsamic vinegar drizzled all over and of course... red pepper flakes
 
 ![](./images/bacon_nectarine_jalapeno_pizza.jpg)
 
-<h5 class="decorated"><span>🍕🍕🍕</span></h5>
+<br />
+<center>━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </center>
+<br />
 
 1 handful of Fuego Takis flavored with cayenne and lime  
 2 jalapeño peppers  
@@ -64,7 +42,9 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 
 ![](./images/chicken_takis_pizza.jpg)
 
-<h5 class="decorated"><span>🍕🍕🍕</span></h5>
+<br />
+<center>━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </center>
+<br />
 
 2 large tomatoes sliced  
 4 garlic cloves, minced  
@@ -76,7 +56,9 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 
 ![](./images/tomato_garlic_basil_pizza.jpg)
 
-<h5 class="decorated"><span>🍕🍕🍕</span></h5>
+<br />
+<center>━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </center>
+<br />
 
 8 oz. sliced pepperoni  
 1 nectarine, diced  
@@ -86,7 +68,9 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 
 ![](./images/nectarine_pepperoni_pizza.jpg)
 
-<h5 class="decorated"><span>🍕🍕🍕</span></h5>
+<br />
+<center>━━━━━━━━━━━━━━ 🍕🍕🍕 ━━━━━━━━━━━━━━ </center>
+<br />
 
 1 pound of bacon, cooked and diced  
 2 large onions, caramelized  
