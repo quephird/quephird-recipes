@@ -11,16 +11,23 @@ I make pizza dough from scratch using a tiny variation of Bobby Flay's recipe, [
 
 I just throw everything into a large salad bowl and stir the mixture, gradually adding the hot water and continuing to stir until the dough turns into a wet ball. Then I let it sit somewhere for about an hour. After that I scoop the dough out of the bowl and I repeatedly add flour and knead the dough until it turns into almost like Play-doh. Then I split the ball into two, where each one should be enough for a 14" pizza. Sometimes I put them both away for a day, since dough seems to work better after "aging" a bit, but using one right away is fine.
 
+#### TODO: Add recipe for homemade pizza sauce.
+
 #### SHOW ME THE PIZZAS
 
 1 pound bacon, cooked and diced  
 1 nectarine, diced  
 2 jalapeño peppers, sliced neatly  
-1/2 pound mozzarella, shredded
-1/4 pound blue cheese, shredded
-with Balsamic vinegar drizzled all over and of course... red pepper flakes
+1/2 pound mozzarella, shredded  
+1/4 pound blue cheese, shredded  
+Balsamic vinegar  
+red pepper flakes  
+
+Make a bedding of mozzarella and blue cheeses on the pizza dough. After cooking the bacon and dicing both it and the nectarine as well as the jalapeños, spread it all over the cheeses and then put in the oven. After baking, drizzle the balsamic vinegar and sprinkle red pepper flakes.
 
 ![](./images/bacon_nectarine_jalapeno_pizza.jpg)
+
+<hr />
 
 1 handful of Fuego Takis flavored with cayenne and lime  
 2 jalapeño peppers  
@@ -38,29 +45,41 @@ Put the Takis, jalapeños, cilantro, lime juice, cumin, chili powder, salt, and 
 
 ![](./images/chicken_takis_pizza.jpg)
 
-2 large tomatoes sliced  
-4 garlic cloves, minced  
+<hr />
+
+2 large tomatoes  
+4 garlic cloves  
 1 pound mozzarella, shredded  
 1 lemon, juiced  
 2-3 tablespoons oregano  
-3-4 ounces basil, shredded  
+3-4 ounces basil leaves  
 5 tablespoons feta cheese  
+
+Make a bedding of mozzarella on the pizza dough. Slice the tomatoes thinly and arrange on top of the bedding. Mince the garlic and spread over the tomatoes. Sprinkle the oregano and spread pieces of basil leaves evenly. Sprinkle only some of the lemon juice over the pizza prior to baking. Put in the oven for about ten to fifteen minutes then drizzle the remainder of the lemon juice and sprinkle as much red pepper flakes and salt as you wish.
 
 ![](./images/tomato_garlic_basil_pizza.jpg)
 
+<hr />
+
 8 oz. sliced pepperoni  
-1 nectarine, diced  
+1 nectarine  
 10 diced golden cherry tomatoes  
 1 pound mozzarella, shredded  
-8 oz. homemade pizza sauce  
+8 oz. pizza sauce  
+
+Spread the pizza sauce on the dough first. Then make a bedding of mozzarella on top of the pizza sauce. Arrange the pepperoni evenly on top of the bedding. Dice the nectarine and tomatoes and spread evenly on top of the pepperoni. Put in the oven for about ten to fifteen minutes.
 
 ![](./images/nectarine_pepperoni_pizza.jpg)
 
-1 pound of bacon, cooked and diced  
-2 large onions, caramelized  
+<hr />
+
+1 pound of bacon  
+2 large onions  
 1 pound mozzarella, shredded  
 5 tablespoons feta cheese  
-red raspberries  
+6-8 ounces of red raspberries  
 red pepper flakes  
+
+Dice the onions coarsely and put in a pan on medium heat with some butter and a tablespoon of brown sugar. Stir in water occasionally an continue to watch and stir until they brown and caramelize. Put into a container and set aside. Cook the bacon until crispy and set aside as well. Then make a bedding of mozzarella on top of the pizza dough. Spread the onions and then the bacon evenly on top of the cheese. Put the pizza in the oven for about ten to fifteen minutes. After taking it out, spread the raspberries and feta cheese over the pizza. Add red pepper flakes if you like for added heat.
 
 ![](./images/raspberry_pizza.jpg)
