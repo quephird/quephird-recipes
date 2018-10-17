@@ -26,6 +26,37 @@ I just throw everything into a large salad bowl and stir the mixture, gradually 
 
 #### SHOW ME THE PIZZAS
 
+1 pound applewood smoked bacon  
+1/2 pound kielbasa  
+2 large onions  
+2 tablespoons butter  
+apple cider  
+1/2 pound smoked Gouda cheese  
+1 pound mozzarella cheese  
+2 jalapeño peppers  
+1 Granny apple  
+red pepper flakes  
+
+Cook the bacon until crispy, and dice both it and the kielbasa and set aside. Dice the onions and put into a pan with 2 tablespoons of butter and about 1/2 apple cider. After it is all caramelized, set aside. Dice the jalapeños and Granny apple and set aside. Make a bedding of shredded mozzarella and Gouda cheeses on the pizza dough. Spread the bacon and kielbasa over the pizza, then the onions and finally the jalapeños. _Be sure not to put the apple on before putting the pizza in the oven as it will lose its texture and flavor._ Put in the oven for about ten to fifteen minutes. After baking, spread the diced apple over the pizza, and add red pepper flakes for heat if you like.
+
+![](./images/bacon_kielbasa_apple_pizza.jpg)
+
+<hr />
+
+1/2-1 cup cauliflower  
+4-6 small radishes
+1-2 ounces arugula  
+1/4 pound Gorgonzola cheese  
+1 pound mozzarella cheese  
+Italian dressing
+red pepper flakes
+
+Make a bedding of mozzarella and Gorgonzola cheeses on top of the pizza dough. Dice the cauliflower and radishes and spread evenly across the pizza. Put in the oven for about ten to fifteen minutes. After baking, spread the arugula evenly, and drizzle Italian dressing all over. Add red pepper flakes if you want some heat.
+
+![](./images/cauliflower_radish_pizza.jpg)
+
+<hr />
+
 4 ounces prosciutto  
 5-10 tablespoons of banana peppers  
 1 pound mozzarella, shredded  
