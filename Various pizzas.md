@@ -44,12 +44,12 @@ Cook the bacon until crispy, and dice both it and the kielbasa and set aside. Di
 <hr />
 
 1/2-1 cup cauliflower  
-4-6 small radishes
+4-6 small radishes  
 1-2 ounces arugula  
 1/4 pound Gorgonzola cheese  
 1 pound mozzarella cheese  
-Italian dressing
-red pepper flakes
+Italian dressing  
+red pepper flakes  
 
 Make a bedding of mozzarella and Gorgonzola cheeses on top of the pizza dough. Dice the cauliflower and radishes and spread evenly across the pizza. Put in the oven for about ten to fifteen minutes. After baking, spread the arugula evenly, and drizzle Italian dressing all over. Add red pepper flakes if you want some heat.
 
