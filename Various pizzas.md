@@ -26,6 +26,35 @@ I just throw everything into a large salad bowl and stir the mixture, gradually 
 
 #### SHOW ME THE PIZZAS
 
+1 pound bacon  
+1/2 pound Brussels sprouts  
+1 Granny apple  
+2 ounces mushrooms  
+1 tablespoon butter  
+1 tablespoon fish sauce  
+2 tablespoons Italian dressing  
+1 tablespoon chili powder  
+1 tablespoon crushed orange peel  
+1 pound mozzarella  
+
+Cook the bacon until crispy, and dice both it and set aside. Slice the Brussels sprouts and set aside. Dice the mushrooms and Granny apple and set aside. In a pan on medium heat, put in the butter and add the bacon, Brussels sprouts, mushrooms, and apple. Add about a tablespoon of fish sauce and two tablespoons of Italian dressing. Add in the chili powder and crushed orange peel and stir. Keep stirring and heating until the Brussels sprouts are cooked and browned a bit. Make a bedding of mozzarella on top of the pizza dough. Spread as much of the bacon salad as you would like on top. Put in the oven for about ten to fifteen minutes.
+
+![](./images/bacon_brussels_sprouts_pizza.jpg)
+
+<hr />  
+
+8 oz. sliced pepperoni  
+1/2 cup green olives  
+4-6 hot cherry peppers  
+1 pound mozzarella, shredded  
+8 oz. homemade pizza sauce  
+
+Then spread the pizza sauce on the dough. Make a bedding of mozzarella on top of the pizza sauce. Arrange the pepperoni evenly on top of the bedding. Dice the cherry peppers and green olives and spread them on top of the pepperoni. Put in the oven for about ten to fifteen minutes.
+
+![](./images/pepperoni_olive_cherry_peppers_pizza.jpg)
+
+<hr />
+
 1 pound applewood smoked bacon  
 1/2 pound kielbasa  
 2 large onions  
